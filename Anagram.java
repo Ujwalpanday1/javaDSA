@@ -30,7 +30,7 @@ class Solution {
 }
 public class Anagram{
     public static void main(String[] args) {
-        Solution sol=new Solution();
+        SakurakoExam sol=new SakurakoExam();
        System.out.println(sol.isAnagram("anagram","nagaram")); 
     }
 }
