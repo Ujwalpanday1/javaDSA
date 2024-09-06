@@ -51,6 +51,11 @@ class Solution {
         return new ArrayList<>(set);
 
     }
+
+    public char[] findSubstring(String string) {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'findSubstring'");
+    }
 }
 
 public class fourSum {
